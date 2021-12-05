@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    overflow: hidden;
+}
+
+.Calculator {
+    width: 400px;
+    height: 300px;
+    padding: 0px;
+    border-style: solid;
+    border-color: black;
+    margin: 25px;
+    position: relative;
+}
