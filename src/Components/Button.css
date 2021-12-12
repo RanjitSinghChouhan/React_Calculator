@@ -16,8 +16,8 @@
     height: 40%;
 }
 
-.Button[data-value="null"] {
-    pointer-events: none;
+.Button[data-value="clear"] {
+    background-color: rgb(189, 82, 82);
 }
 
 .Button:hover {
