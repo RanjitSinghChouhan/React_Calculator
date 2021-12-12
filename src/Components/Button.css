@@ -17,7 +17,7 @@
 }
 
 .Button[data-value="clear"] {
-    background-color: rgb(189, 82, 82);
+    background-color: rgb(189, 82, 81);
 }
 
 .Button:hover {
